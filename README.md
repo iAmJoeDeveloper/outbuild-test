@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Joe Suarez - Outbuild - Frontend Developer Test</h1>
 
-<p>You can visit the project here: <a href="https://outbuild-test.vercel.app/login">See the project</p>
+<p>You can visit the project here: <a href="https://outbuild-test.vercel.app/">See the project</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
