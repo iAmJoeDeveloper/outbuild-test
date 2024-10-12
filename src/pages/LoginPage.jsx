@@ -44,12 +44,7 @@ const LoginPage = () => {
 	return (
 		<>
 			<div className='flex items-center justify-center flex-col min-h-screen bg-gray-100'>
-				<img
-					src='../../public/outbuild-logo.svg'
-					width='280px'
-					alt='Outbuild Logo'
-					className='mb-10'
-				/>
+				<img src='/outbuild-logo.svg' width='280px' alt='Outbuild Logo' className='mb-10' />
 				<div className='w-full max-w-sm p-6 bg-white rounded-lg shadow-md '>
 					<h2 className='mb-6 text-2xl font-bold text-center text-gray-700'>Login</h2>
 					<form onSubmit={onSubmit}>
