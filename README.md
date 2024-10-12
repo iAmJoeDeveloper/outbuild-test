@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Joe Suarez - Outbuild - Frontend Developer Test</h1>
 
+<p>You can visit the project here: <a href="https://outbuild-test.vercel.app/login">See the project</p>
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. run npm install</p>
@@ -12,6 +14,6 @@ Technologies used in the project:
 
 - React Vite JS Vanilla React Router DOM Tailwind
 
-<h2>💖Like my work?</h2>
+<h2>💻 Do you like my work?</h2>
 
 https://joedev-iamjoedeveloper.vercel.app/ - joesuarez.developer@gmail.com
